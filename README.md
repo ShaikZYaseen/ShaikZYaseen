@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikzyaseen&label=Profile%20views&color=0e75b6&style=flat" alt="shaikzyaseen" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://visitmyportfoliohere.netlify.app/)
 
