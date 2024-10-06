@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://visitmyportfoliohere.netlify.app/)
 
-- 💬 Ask me about **Full stack/Bakend dev**
+- 💬 Ask me about **Full stack/Backend dev**
 
 - 📫 How to reach me **yaseenshaikhere@gmail.com**
 
