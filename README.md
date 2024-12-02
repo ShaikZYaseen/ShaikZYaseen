@@ -7,7 +7,7 @@
 
 - 🌱 Iam currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at :[https://visitmyportfoliohere.netlify.app/)
+- 👨‍💻 All of my projects are available at :)  [https://visitmyportfoliohere.netlify.app/)
 
 - 💬 Ask me about **Full Stack/Backend development**
 
