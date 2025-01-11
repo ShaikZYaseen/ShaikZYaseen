@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Full Stack/Backend development**
 
-- 📫 How to reach me **yaseenshaikhere@gmail.com**
-
 - ⚡ Fun fact **Did you know? The first computer virus was created in 1983 and was called the "Elk Cloner." It infected Apple II computers via floppy disks.**
 
 <h3 align="left">Connect with me :)</h3>
